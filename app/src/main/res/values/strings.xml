@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jorge_Castro(Examen_Final)</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+
+    <string name="cerrar">Cerrar Aplicación</string>
+    <string name="Titulo1frag">> Plantas y Árboles</string>
+    <string name="id">id</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Tipo">Tipo</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="volver">Volver a Listado</string>
+    <string name="enviarcorreo">¡Contáctanos Aquí!</string>
+    <string name="nada">nada</string>
+    <string name="caracteristica">Especificaciones del Producto</string>
+
+
+</resources>
